@@ -1,0 +1,6 @@
+{
+  "name": "VisionForged Ventures",
+  "description": "Premium dark-themed futuristic landing page for VisionForged Ventures LLC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
