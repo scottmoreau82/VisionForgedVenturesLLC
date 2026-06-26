@@ -1363,7 +1363,7 @@ export default function App() {
 
           {/* Bottom Bar containing standard text */}
           <div className="border-t border-white/5 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 font-sans text-[11px] text-[#7A8699]">
-            <span>© 2024 VisionForged Ventures LLC. All rights reserved.</span>
+            <span>© 2026 VisionForged Ventures LLC. All rights reserved.</span>
             <div className="flex gap-4">
               <a href="#about" className="hover:text-white transition-colors duration-300 uppercase tracking-widest font-semibold">Security Matrix</a>
               <span>·</span>
