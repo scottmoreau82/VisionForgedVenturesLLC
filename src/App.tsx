@@ -657,7 +657,7 @@ export default function App() {
 
             {/* IMMERSIVE HEADER TAGLINE */}
             <h1 className="text-3xl sm:text-4xl xl:text-5xl font-extrabold font-display tracking-tight text-white mb-6 leading-[1.15]">
-              BRINGING CREATIVE IDEAS <br className="hidden sm:inline" />
+              BRINGING LIFELONG IDEAS <br className="hidden sm:inline" />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-[#B8C2D1] to-[#D4A24C]">TO LIGHT</span> THROUGH MODERN <br className="hidden sm:inline" />
               DAY TECHNOLOGY.
             </h1>
